@@ -14,7 +14,7 @@
 
 - [ ] 用 add first 或 add last 这套新的 API 改写 Deque 的代码
 - [ ] 分析 Queue 和 Priority Queue 的源码
-- [ ] 删除排序数组中的重复项
+- [x] 删除排序数组中的重复项
 - [ ] 旋转数组
 - [ ] 合并两个有序链表
 - [ ] 合并两个有序数组
