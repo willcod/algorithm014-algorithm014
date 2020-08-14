@@ -1,0 +1,2 @@
+void AddFirstMethodTest();
+void AddLastMethodTest();
