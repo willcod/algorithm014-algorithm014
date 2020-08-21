@@ -1,25 +1,29 @@
-# 极客大学「算法训练营-第14期」作业提交仓库
+## 本周作业
 
+### 简单：
 
+- [ ] 写一个关于 HashMap 的小总结。
+  说明：对于不熟悉 Java 语言的同学，此项作业可选做。
+- [x] [有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/description/)（亚马逊、Facebook、谷歌在半年内面试中考过）
+- [x] [两数之和](https://leetcode-cn.com/problems/two-sum/description/)（近半年内，亚马逊考查此题达到 216 次、字节跳动 147 次、谷歌 104 次，Facebook、苹果、微软、腾讯也在近半年内面试常考）
+- [x] [N 叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/description/)（亚马逊在半年内面试中考过）
+- [ ] HeapSort ：自学 https://www.geeksforgeeks.org/heap-sort/
 
+### 中等：
 
-## 仓库目录结构说明
+- [x] [字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/)（亚马逊在半年内面试中常考）
+- [x] [二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)（亚马逊、字节跳动、微软在半年内面试中考过）
+- [x] [二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)（字节跳动、谷歌、腾讯在半年内面试中考过）
+- [x] [N 叉树的层序遍历](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/)（亚马逊在半年内面试中考过）
+- [ ] [丑数](https://leetcode-cn.com/problems/chou-shu-lcof/)（字节跳动在半年内面试中考过）
+- [ ] [前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/)（亚马逊在半年内面试中常考）
 
-1. `week01/` 代表第一周作业提交目录，以此类推。
-2. 请在对应周的目录下新建或修改自己的代码作业。
-2. 每周均有一个 `REDAME.md` 文档，你可以将自己当周的学习心得以及做题过程中的思考记录在该文档中。
+## 下周预习
 
-## 作业提交规则
- 
-1. 先将本仓库 Fork 到自己 GitHub 账号下。
-2. 将 Fork 后的仓库 Clone 到本地，然后在本地仓库中对应周的目录下新建或修改自己的代码作业，当周的学习总结写在对应周的README.md文件里。
-3. 在本地仓库完成作业后，push 到自己的 GitHub 远程仓库。
-4. 最后将远程仓库中当周的作业链接，按格式贴到班级仓库对应学习周的issue下面。
-5. 提交issue请务必按照规定格式进行提交，否则作业统计工具将抓取不到你的作业提交记录。 
+### 预习题目：
 
-详细的作业提交流程可以查阅：https://shimo.im/docs/m5rtM8K8rNsjw5jk/ 
-
-
-## 注意事项
-
- 如果对 Git 和 GitHub 不太了解，请参考 [Git 官方文档](https://git-scm.com/book/zh/v2) 或者极客时间的[《玩转 Git 三剑客》](https://time.geekbang.org/course/intro/145)视频课程。
+- [x] [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)
+- [ ] [括号生成](https://leetcode-cn.com/problems/generate-parentheses/)
+- [ ] [Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)
+- [ ] [子集](https://leetcode-cn.com/problems/subsets/)
+- [ ] [N 皇后](https://leetcode-cn.com/problems/n-queens/)
